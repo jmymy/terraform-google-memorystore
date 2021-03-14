@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this
 project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.1.0](https://www.github.com/terraform-google-modules/terraform-google-memorystore/compare/v2.0.0...v2.1.0) (2021-03-14)
+
+
+### Features
+
+* Add support for setting auth_enabled and auth_string on Redis ([#47](https://www.github.com/terraform-google-modules/terraform-google-memorystore/issues/47)) ([c552c19](https://www.github.com/terraform-google-modules/terraform-google-memorystore/commit/c552c1941a4b7bc7b0bbbb5fdf4e4768fd528623))
+
 ## [2.0.0](https://www.github.com/terraform-google-modules/terraform-google-memorystore/compare/v1.3.1...v2.0.0) (2021-01-06)
 
 
